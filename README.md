@@ -1,2 +1,2 @@
 # front-week
-Curos de front end 
+Curso de frond end 
